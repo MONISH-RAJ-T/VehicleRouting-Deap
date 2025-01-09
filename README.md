@@ -63,7 +63,7 @@ The final output includes a plot showing:
 - **Optimized routes for each vehicle (colored lines)**
 
 ### Example Output Image
-![Optimized VRP Route](images/https://github.com/MONISH-RAJ-T/VehicleRouting-Deap/blob/main/VRP.png)
+![Optimized VRP Route](https://github.com/MONISH-RAJ-T/VehicleRouting-Deap/blob/main/VRP.png)
 
 > **Note:** Ensure the output image is saved in the `images` folder inside your repository.
 
