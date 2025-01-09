@@ -81,4 +81,4 @@ This project is open-source under the **MIT License**.
 Contributions are welcome! Feel free to submit issues or pull requests to improve the algorithm or add new features.
 
 ## Contact
-For any questions or collaborations, reach out via [GitHub Issues](https://github.com/your-repo/issues) or email at example@example.com.
+For any questions or collaborations, reach out via [GitHub Issues](https://github.com/your-repo/issues) or email at monishraj2k5@gmail.com.
